@@ -1,0 +1,4 @@
+mediapipe
+pillow
+numpy
+tqdm
